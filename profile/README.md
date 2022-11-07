@@ -7,6 +7,7 @@
 * Website: [https://www.starkx.xyz/](https://www.starkx.xyz/)
 * Documentation: [Link](https://stark-x.gitbook.io/docs/)
 * Pitch deck: [Link](https://pitch.com/public/3388fefa-2114-4c39-8c73-f749f8dc7f42)
+* Demo: [Link](https://www.youtube.com/watch?v=WOqnYq6oTE0&ab_channel=RemiGai)
 * Twitter: [@starkxdex](https://twitter.com/starkxdex)
 * Discord: [Link](https://discord.gg/vgEzd8ddAC)
 * Email: team@starkx.xyz
