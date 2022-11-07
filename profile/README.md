@@ -1,4 +1,4 @@
-# .github
+# Native Cross-chain DEX (CLOB) on Starknet
 
 ![](dexDemo-short.gif)
 
