@@ -6,7 +6,7 @@
 
 * Website: [https://www.starkx.xyz/](https://www.starkx.xyz/)
 * Documentation: [Link](https://stark-x.gitbook.io/docs/)
-* Pitch deck: [Link](https://app.pitch.com/app/presentation/82d36efd-f5f4-43cd-b2a8-b058dfa5db37/3388fefa-2114-4c39-8c73-f749f8dc7f42)
+* Pitch deck: [Link](https://pitch.com/public/3388fefa-2114-4c39-8c73-f749f8dc7f42)
 * Twitter: [@starkxdex](https://twitter.com/starkxdex)
 * Discord: [Link](https://discord.gg/vgEzd8ddAC)
 * Email: team@starkx.xyz
@@ -27,13 +27,13 @@ We bridge assets using state proofs (enabled by Herodotus), which implements bri
 
 ## Demo
 
-You can find a full product demo [here]().
+You can find a full product demo [here](https://youtu.be/WOqnYq6oTE0).
 
 ![](https://github.com/stark-dex/.github/blob/main/profile/dexDemo-short.gif)
 
 ## Technical Architecture
 
-You can find a more detailed explanation of the technical architecture in our [deck](https://app.pitch.com/app/presentation/82d36efd-f5f4-43cd-b2a8-b058dfa5db37/3388fefa-2114-4c39-8c73-f749f8dc7f42) and [documentation](https://stark-x.gitbook.io/docs/).
+You can find a more detailed explanation of the technical architecture in our [deck](https://pitch.com/public/3388fefa-2114-4c39-8c73-f749f8dc7f42) and [documentation](https://stark-x.gitbook.io/docs/).
 
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/27808560/200229141-20278ed6-1d6b-4e4c-8e69-bbb39e190caf.png">
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/27808560/200229157-a1b74477-6d0a-4a8b-a3aa-2123fcdb53f4.png">
@@ -48,5 +48,4 @@ Get in touch if you are:
 * Twitter: [@starkxdex](https://twitter.com/starkxdex)
 * Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)
 * Email: team@starkx.xyz
-
 
