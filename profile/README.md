@@ -11,19 +11,21 @@
 * Discord: [Link](https://discord.gg/vgEzd8ddAC)
 * Email: team@starkx.xyz
 
-Built by [@remi_gai](https://twitter.com/remi_gai) & [@park_eth](https://twitter.com/park_eth)
+Built by [@remi_gai](https://twitter.com/remi_gai) and [@park_eth](https://twitter.com/park_eth) for the October 2022 StarkNet Online Hackathon.
 
 ---
 
 ## What is Stark X?
 
-Stark X is a natively cross-chain Central Limit Order Book (CLOB) DEX on StarkNet that allows users from other chains (Ethereum, Polygon, Arbitrum, etc.) to remotely deposit assets and trade using just their Metamask or local wallet. The DEX is a composable liquidity layer for aggregating cross-chain liquidity, without the impermanence loss or slippage of AMMs.
+Stark X is the first natively cross-chain and composable Central Limit Order Book (CLOB) DEX deployed on StarkNet for trustless settlement and asset liquidity. Using trustless bridging, we allow users from other chains (Ethereum, Polygon, Arbitrum, etc.) to remotely deposit assets and trade using just their Metamask or local wallet. In this way, the DEX acts as a composable liquidity layer for aggregating cross-chain liquidity, without the impermanence loss or slippage of AMMs.
+
+StarkNet is a Layer 2 blockchain that publishes validity proofs (sometimes known as ZK proofs) of its state transitions to Ethereum. This means it inherits the strong security properties of Ethereum while benefiting from the unprecedented scalability and cross-chain composability enabled by L2 StarkNet.
 
 ## How does it work?
 
-The cross-chain concept is demonstrated through Ethereum's EIP-712. The user can sign a message that specifies an action (ex: place buy limit order, cancel order or withdraw funds). The signed message is then verified and executed on StarkNet through a third-party account (currently by us, but this step can be executed by anyone in a trustless manner or through an EIP-4337 paymaster).
+We implement cross-chain messaging using Ethereum's EIP-712. The user signs a message from Ethereum to specify a particular action to be performed(ex: place buy limit order, cancel order or withdraw funds). The signed message is then verified on StarkNet and executed through a third-party (currently us, but this step can be fully decentralised, or implemented as an EIP-4337 paymaster).
 
-We bridge assets using state proofs (enabled by Herodotus), which implements bridging at the consensus layer of the blockchain. This is a StarkNet-native solution enabled by the networks’ cheap compute to prove state transitions on-chain. Please note that as this integration is still ongoing, we have used the native Starknet L1<>L2 messaging instead for this POC.
+Assets are bridged across chain using state proofs, enabled by Herodotus. State proofs are a solution for implementing bridging at the consensus layer of the blockchain. It leverages StarkNet's cheap compute to prove state transitions through an on-chain smart contract. Please note that as this integration is still ongoing, for purposes of the hackathon we have used the native Starknet L1<>L2 messaging instead for this POC.
 
 ## Demo
 
@@ -45,7 +47,7 @@ Get in touch if you are:
 - A market maker who would like to partner with us to provide liquidity on STARKX
 - A trader who would like to understand more about the benefits of STARKX
 
-* Twitter: [@starkxdex](https://twitter.com/starkxdex)
-* Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)
-* Email: team@starkx.xyz
+Twitter: [@starkxdex](https://twitter.com/starkxdex)
+Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)
+Email: team@starkx.xyz
 
