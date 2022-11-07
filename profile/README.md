@@ -1,5 +1,12 @@
 # Native Cross-chain DEX (CLOB) on Starknet
 
+Website: [https://www.starkx.xyz/](https://www.starkx.xyz/)
+Gitbook: [https://stark-x.gitbook.io/docs/](https://stark-x.gitbook.io/docs/)
+Twitter: [@starkxdex](https://twitter.com/starkxdex)
+Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)
+Email: team@starkx.xyz
+
+
 ![](dexDemo-short.gif)
 
 We have built a native cross-chain DEX on Starknet that allows users from other chains (Ethereum, Polygon, Arbitrum, etc.) to deposit assets and trade using their Metamask. The DEX is a composable liquidity layer (CLOB) without impermanent loss and slippage.
