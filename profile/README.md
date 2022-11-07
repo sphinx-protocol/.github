@@ -8,7 +8,7 @@
 
 Built by [@remi_gai](https://twitter.com/remi_gai) & [@park_eth](https://twitter.com/park_eth)
 
-![](./dexDemo-short.gif)
+![](https://github.com/stark-dex/.github/blob/main/profile/dexDemo-short.gif)
 
 We have built a native cross-chain DEX on Starknet that allows users from other chains (Ethereum, Polygon, Arbitrum, etc.) to deposit assets and trade using their Metamask. The DEX is a composable liquidity layer (CLOB) without impermanent loss and slippage.
 
