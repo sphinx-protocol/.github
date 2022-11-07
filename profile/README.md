@@ -1,4 +1,4 @@
-# Native Cross-chain DEX (CLOB) on Starknet
+# Cross-chain orderbook DEX, built on StarkNet
 
 * Website: [https://www.starkx.xyz/](https://www.starkx.xyz/)
 * Gitbook: [https://stark-x.gitbook.io/docs/](https://stark-x.gitbook.io/docs/)
