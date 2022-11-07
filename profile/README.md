@@ -1,11 +1,12 @@
 # Native Cross-chain DEX (CLOB) on Starknet
 
-Website: [https://www.starkx.xyz/](https://www.starkx.xyz/)
-Gitbook: [https://stark-x.gitbook.io/docs/](https://stark-x.gitbook.io/docs/)
-Twitter: [@starkxdex](https://twitter.com/starkxdex)
-Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)
-Email: team@starkx.xyz
+* Website: [https://www.starkx.xyz/](https://www.starkx.xyz/)
+* Gitbook: [https://stark-x.gitbook.io/docs/](https://stark-x.gitbook.io/docs/)
+* Twitter: [@starkxdex](https://twitter.com/starkxdex)
+* Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)
+* Email: team@starkx.xyz
 
+Built by [@remi_gai](https://twitter.com/remi_gai) & [@park_eth](https://twitter.com/park_eth)
 
 ![](dexDemo-short.gif)
 
