@@ -28,18 +28,18 @@ We implement cross-chain messaging using Ethereum's EIP-712. The user signs a me
 
 Assets are bridged across chain using state proofs, enabled by Herodotus. State proofs are a solution for implementing bridging at the consensus layer of the blockchain. It leverages StarkNet's cheap compute to prove state transitions through an on-chain smart contract. Please note that as this integration is still ongoing, for purposes of the hackathon we have used the native Starknet L1<>L2 messaging instead for this POC.
 
-## Demo
-
-You can find a full product demo [here](https://youtu.be/WOqnYq6oTE0).
-
-![](https://github.com/stark-dex/.github/blob/main/profile/dexDemo-short.gif)
-
 ## Technical Architecture
 
 You can find a more detailed explanation of the technical architecture in our [deck](https://pitch.com/public/3388fefa-2114-4c39-8c73-f749f8dc7f42) and [documentation](https://stark-x.gitbook.io/docs/).
 
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/27808560/200229141-20278ed6-1d6b-4e4c-8e69-bbb39e190caf.png">
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/27808560/200229157-a1b74477-6d0a-4a8b-a3aa-2123fcdb53f4.png">
+
+## Demo
+
+You can find a full product demo [here](https://youtu.be/WOqnYq6oTE0).
+
+![](https://github.com/stark-dex/.github/blob/main/profile/dexDemo-short.gif)
 
 ## Contact us
 
