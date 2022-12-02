@@ -1,13 +1,13 @@
-# Stark X - Cross-chain Orderbook DEX
+# Stark X - A Natively Cross-chain Orderbook DEX
 
-<img width="1512" alt="image" src="https://user-images.githubusercontent.com/27808560/200228537-407e7aec-2390-4ab3-a8fb-7027274863e1.png">
+<img width="1232" alt="image" src="https://user-images.githubusercontent.com/27808560/205241847-22b50050-037c-4b8e-af06-cae835214f03.png">
 
 ## Links
 
 * Website: [https://www.starkx.xyz/](https://www.starkx.xyz/)
 * Documentation: [Link](https://stark-x.gitbook.io/docs/)
-* Pitch deck: [Link](https://pitch.com/public/3388fefa-2114-4c39-8c73-f749f8dc7f42)
-* Demo: [Link](https://www.youtube.com/watch?v=WOqnYq6oTE0&ab_channel=RemiGai)
+* Pitch deck: [Link](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e)
+* Demo: [Link](https://www.youtube.com/watch?v=5iFHXK6_lEQ)
 * Twitter: [@starkxdex](https://twitter.com/starkxdex)
 * Discord: [Link](https://discord.gg/vgEzd8ddAC)
 * Email: team@starkx.xyz
@@ -30,16 +30,16 @@ Assets are bridged across chain using state proofs, enabled by Herodotus. State 
 
 ## Technical Architecture
 
-You can find a more detailed explanation of the technical architecture in our [deck](https://pitch.com/public/3388fefa-2114-4c39-8c73-f749f8dc7f42) and [documentation](https://stark-x.gitbook.io/docs/).
+You can find a more detailed explanation of the technical architecture in our [deck](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e) and [documentation](https://stark-x.gitbook.io/docs/).
 
-<img width="1512" alt="image" src="https://user-images.githubusercontent.com/27808560/200229141-20278ed6-1d6b-4e4c-8e69-bbb39e190caf.png">
-<img width="1512" alt="image" src="https://user-images.githubusercontent.com/27808560/200229157-a1b74477-6d0a-4a8b-a3aa-2123fcdb53f4.png">
+<img width="1231" alt="image" src="https://user-images.githubusercontent.com/27808560/205241874-6a30a6a7-83ec-4103-b151-cbfc6ccf1323.png">
+<img width="1230" alt="image" src="https://user-images.githubusercontent.com/27808560/205241937-7f9fb296-18b3-4e6a-aeba-174ec4ae7e47.png">
 
 ## Demo
 
-We have created a mock frontend to demonstrate the functionality of the DEX. You can find a full product demo [here](https://youtu.be/WOqnYq6oTE0).
+We have created a mock frontend to demonstrate the functionality of the DEX. You can find a full product demo [here](https://www.youtube.com/watch?v=5iFHXK6_lEQ).
 
-![](https://github.com/stark-dex/.github/blob/main/profile/dexDemo-short.gif)
+![](https://github.com/stark-dex/.github/blob/main/profile/dex-demo-short.gif)
 
 ## Contact us
 
