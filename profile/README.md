@@ -1,6 +1,6 @@
-# STARKX - A Natively Cross-chain Orderbook DEX
+# STARKX
 
-<img width="1232" alt="image" src="https://user-images.githubusercontent.com/27808560/205241847-22b50050-037c-4b8e-af06-cae835214f03.png">
+<img width="1228" alt="image" src="https://user-images.githubusercontent.com/27808560/205266606-6e200462-be31-4a2a-b5ee-d9369800dffd.png">
 
 ## Links
 
