@@ -39,7 +39,7 @@ You can find a more detailed explanation of the technical architecture in our [d
 
 We have created a mock frontend to demonstrate the functionality of the DEX. You can find a full product demo [here](https://www.youtube.com/watch?v=5iFHXK6_lEQ).
 
-![](https://github.com/stark-dex/.github/blob/main/profile/Demo-gif-HD-1080p.gif)
+![](https://github.com/stark-dex/.github/blob/main/profile/dex-demo-short.gif)
 
 ## Contact us
 
