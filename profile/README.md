@@ -1,4 +1,4 @@
-# STARKX
+# STARKX - A Natively Cross-chain Orderbook DEX
 
 <img width="1228" alt="image" src="https://user-images.githubusercontent.com/27808560/205266606-6e200462-be31-4a2a-b5ee-d9369800dffd.png">
 
