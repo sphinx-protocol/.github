@@ -48,7 +48,7 @@ Get in touch if you are:
 - A market maker who would like to partner with us to provide liquidity on STARKX
 - A trader who would like to understand more about the benefits of STARKX
 
-Twitter: [@starkxdex](https://twitter.com/starkxdex)
-Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)
+Twitter: [@starkxdex](https://twitter.com/starkxdex)\
+Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)\
 Email: team@starkx.xyz
 
