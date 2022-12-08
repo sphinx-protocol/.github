@@ -12,7 +12,7 @@
 * Discord: [Link](https://discord.gg/vgEzd8ddAC)
 * Email: team@starkx.xyz
 
-Built by [@remi_gai](https://twitter.com/remi_gai) and [@park_eth](https://twitter.com/park_eth) for the October 2022 StarkNet Online Hackathon.
+1st place win at the October 2022 StarkNet Autumn Hackathon. Built by [@remi_gai](https://twitter.com/remi_gai) and [@park_eth](https://twitter.com/park_eth).
 
 ---
 
