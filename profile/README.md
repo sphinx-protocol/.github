@@ -1,6 +1,6 @@
 # STARKX - A Natively Cross-chain Orderbook DEX
 
-<img width="1228" alt="image" src="https://user-images.githubusercontent.com/27808560/205266606-6e200462-be31-4a2a-b5ee-d9369800dffd.png">
+![image](https://user-images.githubusercontent.com/27808560/206443698-56aca49e-3100-4e7b-bc51-aabac2f8b46a.png)
 
 ## Links
 
@@ -32,7 +32,7 @@ Assets are bridged across chain using state proofs, enabled by Herodotus. State 
 
 You can find a more detailed explanation of the technical architecture in our [deck](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e) and [documentation](https://stark-x.gitbook.io/docs/).
 
-<img width="1231" alt="image" src="https://user-images.githubusercontent.com/27808560/205241874-6a30a6a7-83ec-4103-b151-cbfc6ccf1323.png">
+<img width="1230" alt="image" src="https://user-images.githubusercontent.com/27808560/206443870-ddb4b807-d22f-4879-8651-9ea0df6fff7f.png">
 <img width="1230" alt="image" src="https://user-images.githubusercontent.com/27808560/205241937-7f9fb296-18b3-4e6a-aeba-174ec4ae7e47.png">
 
 ## Demo
