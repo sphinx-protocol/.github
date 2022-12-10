@@ -5,7 +5,7 @@
 ## Links
 
 * Website: [https://www.sphnx.xyz/](https://www.sphnx.xyz/)
-* Documentation: [Link](https://sphnx.gitbook.io/docs/)
+* Documentation: [Link](https://sphinx-docs.gitbook.io/)
 * Pitch deck: [Link](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e)
 * Demo: [Link](https://www.youtube.com/watch?v=5iFHXK6_lEQ)
 * Twitter: [@starkxdex](https://twitter.com/starkxdex)
@@ -30,7 +30,7 @@ Assets are bridged across chain using state proofs, enabled by Herodotus. State 
 
 ## Technical Architecture
 
-You can find a more detailed explanation of the technical architecture in our [deck](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e) and [documentation](https://sphnx.gitbook.io/docs/).
+You can find a more detailed explanation of the technical architecture in our [deck](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e) and [documentation](https://sphinx-docs.gitbook.io/).
 
 <img width="1230" alt="image" src="https://user-images.githubusercontent.com/27808560/206443870-ddb4b807-d22f-4879-8651-9ea0df6fff7f.png">
 <img width="1230" alt="image" src="https://user-images.githubusercontent.com/27808560/205241937-7f9fb296-18b3-4e6a-aeba-174ec4ae7e47.png">
