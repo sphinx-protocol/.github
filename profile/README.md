@@ -7,7 +7,7 @@
 * Website: [https://www.sphnx.xyz/](https://www.sphnx.xyz/)
 * Documentation: [Link](https://sphinx-docs.gitbook.io/)
 * Pitch deck: [Link](https://pitch.com/public/2b9a6244-de76-4ab5-a725-c32ad00214b4)
-* Demo: [Link]https://youtu.be/hxNjCYst1K4Q)
+* Demo: [Link](https://youtu.be/hxNjCYst1K4Q)
 * Twitter: [@sphinxdex](https://twitter.com/sphinxdex)
 * Discord: [Link](https://discord.gg/vgEzd8ddAC)
 * Email: team@sphnx.xyz
