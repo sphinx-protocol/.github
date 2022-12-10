@@ -1,11 +1,11 @@
-# STARKX - A Natively Cross-chain Orderbook DEX
+# Sphinx - A Natively Cross-chain Orderbook DEX
 
 ![image](https://user-images.githubusercontent.com/27808560/206443698-56aca49e-3100-4e7b-bc51-aabac2f8b46a.png)
 
 ## Links
 
 * Website: [https://www.starkx.xyz/](https://www.starkx.xyz/)
-* Documentation: [Link](https://stark-x.gitbook.io/docs/)
+* Documentation: [Link](https://sphnx.gitbook.io/docs/)
 * Pitch deck: [Link](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e)
 * Demo: [Link](https://www.youtube.com/watch?v=5iFHXK6_lEQ)
 * Twitter: [@starkxdex](https://twitter.com/starkxdex)
@@ -16,9 +16,9 @@
 
 ---
 
-## What is Stark X?
+## What is Sphinx?
 
-Stark X is the first natively cross-chain and composable Central Limit Order Book (CLOB) DEX deployed on StarkNet for trustless settlement and asset liquidity. Using trustless bridging, we allow users from other chains (Ethereum, Polygon, Arbitrum, etc.) to remotely deposit assets and trade using just their Metamask or local wallet. In this way, the DEX acts as a composable liquidity layer for aggregating cross-chain liquidity, without the impermanence loss or slippage of AMMs.
+Sphinx is the first natively cross-chain and composable Central Limit Order Book (CLOB) DEX deployed on StarkNet for trustless settlement and asset liquidity. Using trustless bridging, we allow users from other chains (Ethereum, Polygon, Arbitrum, etc.) to remotely deposit assets and trade using just their Metamask or local wallet. In this way, the DEX acts as a composable liquidity layer for aggregating cross-chain liquidity, without the impermanence loss or slippage of AMMs.
 
 StarkNet is a Layer 2 blockchain that publishes validity proofs (sometimes known as ZK proofs) of its state transitions to Ethereum. This means it inherits the strong security properties of Ethereum while benefiting from the unprecedented scalability and cross-chain composability enabled by L2 StarkNet.
 
@@ -30,7 +30,7 @@ Assets are bridged across chain using state proofs, enabled by Herodotus. State 
 
 ## Technical Architecture
 
-You can find a more detailed explanation of the technical architecture in our [deck](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e) and [documentation](https://stark-x.gitbook.io/docs/).
+You can find a more detailed explanation of the technical architecture in our [deck](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e) and [documentation](https://sphnx.gitbook.io/docs/).
 
 <img width="1230" alt="image" src="https://user-images.githubusercontent.com/27808560/206443870-ddb4b807-d22f-4879-8651-9ea0df6fff7f.png">
 <img width="1230" alt="image" src="https://user-images.githubusercontent.com/27808560/205241937-7f9fb296-18b3-4e6a-aeba-174ec4ae7e47.png">
@@ -44,9 +44,9 @@ We have created a mock frontend to demonstrate the functionality of the DEX. You
 ## Contact us
 
 Get in touch if you are:
-- An AMM who would like to integrate with STARKX’s order book for deeper liquidity
-- A market maker who would like to partner with us to provide liquidity on STARKX
-- A trader who would like to understand more about the benefits of STARKX
+- An AMM who would like to integrate with Sphinx’s order book for deeper liquidity
+- A market maker who would like to partner with us to provide liquidity on Sphinx
+- A trader who would like to understand more about the benefits of Sphinx
 
 Twitter: [@starkxdex](https://twitter.com/starkxdex)\
 Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)\
