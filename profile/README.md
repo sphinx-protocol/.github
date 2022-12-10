@@ -4,7 +4,7 @@
 
 ## Links
 
-* Website: [https://www.starkx.xyz/](https://www.starkx.xyz/)
+* Website: [https://www.sphnx.xyz/](https://www.sphnx.xyz/)
 * Documentation: [Link](https://sphnx.gitbook.io/docs/)
 * Pitch deck: [Link](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e)
 * Demo: [Link](https://www.youtube.com/watch?v=5iFHXK6_lEQ)
@@ -39,7 +39,7 @@ You can find a more detailed explanation of the technical architecture in our [d
 
 We have created a mock frontend to demonstrate the functionality of the DEX. You can find a full product demo [here](https://www.youtube.com/watch?v=5iFHXK6_lEQ).
 
-![](https://github.com/stark-dex/.github/blob/main/profile/dex-demo-short.gif)
+![](https://github.com/sphinx-dex/.github/blob/main/profile/dex-demo-short.gif)
 
 ## Contact us
 
