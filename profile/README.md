@@ -8,9 +8,9 @@
 * Documentation: [Link](https://sphinx-docs.gitbook.io/)
 * Pitch deck: [Link](https://pitch.com/public/e5498d39-8a7b-45af-babf-7871ec2d938e)
 * Demo: [Link](https://www.youtube.com/watch?v=5iFHXK6_lEQ)
-* Twitter: [@starkxdex](https://twitter.com/starkxdex)
+* Twitter: [@sphinxdex](https://twitter.com/sphinxdex)
 * Discord: [Link](https://discord.gg/vgEzd8ddAC)
-* Email: team@starkx.xyz
+* Email: team@sphnx.xyz
 
 1st place win at the October 2022 StarkNet Autumn Hackathon. Built by [@remi_gai](https://twitter.com/remi_gai) and [@park_eth](https://twitter.com/park_eth).
 
@@ -48,7 +48,7 @@ Get in touch if you are:
 - A market maker who would like to partner with us to provide liquidity on Sphinx
 - A trader who would like to understand more about the benefits of Sphinx
 
-Twitter: [@starkxdex](https://twitter.com/starkxdex)\
+Twitter: [@sphinxdex](https://twitter.com/sphinxdex)\
 Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)\
-Email: team@starkx.xyz
+Email: team@sphnx.xyz
 
