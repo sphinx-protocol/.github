@@ -1,6 +1,6 @@
 # Sphinx (prev: Stark X) - A Natively Cross-chain Orderbook DEX
 
-![image](https://user-images.githubusercontent.com/27808560/206833344-99db21b5-b7ac-48a3-b039-eb0674a9b680.png)
+![](https://github.com/sphinx-dex/.github/blob/main/profile/Sphinx-short-video.gif)
 
 ## Links
 
@@ -38,8 +38,6 @@ You can find a more detailed explanation of the technical architecture in our [d
 ## Demo
 
 We have created a mock frontend to demonstrate the functionality of the DEX. You can find a full product demo [here](https://www.youtube.com/watch?v=5iFHXK6_lEQ).
-
-![](https://github.com/sphinx-dex/.github/blob/main/profile/Sphinx-short-video.gif)
 
 ## Contact us
 
