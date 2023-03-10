@@ -10,7 +10,7 @@
 * Demo: [Link](https://youtu.be/hxNjCYst1K4Q)
 * Twitter: [@sphinxdex](https://twitter.com/sphinxdex)
 * Discord: [Link](https://discord.gg/vgEzd8ddAC)
-* Email: team@sphnx.xyz
+* Email: founders@sphinxlabs.xyz
 
 1st place win at the October 2022 StarkNet Autumn Hackathon. Built by [@remi_gai](https://twitter.com/remi_gai) and [@park_eth](https://twitter.com/park_eth).
 
@@ -48,5 +48,5 @@ Get in touch if you are:
 
 Twitter: [@sphinxdex](https://twitter.com/sphinxdex)\
 Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)\
-Email: team@sphnx.xyz
+Email: founders@sphinxlabs.xyz
 
