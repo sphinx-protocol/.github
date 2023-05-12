@@ -1,4 +1,4 @@
-# Sphinx (prev: Stark X) - A Natively Cross-chain Orderbook DEX
+# Sphinx
 
 ![](https://github.com/sphinx-dex/.github/blob/main/profile/Sphinx-short-video.gif)
 
