@@ -1,6 +1,6 @@
 # Sphinx
 
-AMM for Starknet that ships with an integrated market maker for smarter and more democratic liquidity provision.
+Novel AMM for Starknet that ships with an integrated market maker, so you can launch your token in minutes rather than months.
 
 Twitter: [@sphinxamm](https://twitter.com/sphinxamm)\
 Discord: [https://discord.gg/vgEzd8ddAC](https://discord.gg/vgEzd8ddAC)\
