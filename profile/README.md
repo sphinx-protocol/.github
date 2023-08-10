@@ -1,6 +1,6 @@
 # Sphinx
 
-Sphinx is a novel AMM that ships with an integrated, customisable smart contract market maker.
+Sphinx Labs develops novel market making strategies for Starknet
 
 Email: founders@sphinxlabs.xyz
 
