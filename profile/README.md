@@ -1,12 +1,7 @@
 # Sphinx
 
-Sphinx is a novel AMM for Starknet that ships with an integrated, customisable smart contract market maker.
-
-It allows: 
-- Token projects to launch in minutes rather than months and cut market making costs by >100x
-- LPs to market make in a smarter way, providing higher and more consistent yield
-- Traders to benefit from best execution by ensuring deep liquidity from Day 1
+Sphinx is an advanced programmable AMM for liquidity providers, powered by Starknet.
 
 Twitter: [@sphinxamm](https://twitter.com/sphinxamm)
-Discord: [https://discord.gg/56zKgJfMkS](https://discord.gg/56zKgJfMkS)
-Email: founders@sphinxlabs.xyz
+Discord: [https://discord.gg/evK9FZfk](https://discord.gg/evK9FZfk)
+Email: [founders@sphinxlabs.xyz](mailto:founders@sphinxlabs.xyz)
